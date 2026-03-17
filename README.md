@@ -106,5 +106,7 @@ Figura 14 – Grafic Top provenienta orase clienti.
 Iar la orase oficiu avem un grafic unde putem observa in ce oras sunt prezente cele mai multe magazine.
 
 Figura 15 – Grafic Distribuiţie Oficii - orase
+
+
  ![image_alt](https://github.com/nicolae1993/CRMinTelecom/blob/121b6b969b24e78c13cfcafd625c3ea35b304da9/images/figura15.PNG)
 
