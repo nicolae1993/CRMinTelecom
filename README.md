@@ -6,7 +6,7 @@ Accesul la sistem se face prin intermediul unei interfeţe de Login prezente mai
 
 Figura 2 – Interfaţa de Logare
  
-![image_alt]([https://github.com/nicolae1993/DevopsSimpleCiCd/blob/c207c63572cfc5074d2c44f5677090fc2d9ddbdf/images/Capture.PNG](https://github.com/nicolae1993/CRMinTelecom/blob/f517898aa85c6619abf65691a56fd78d6af23b5a/images/figura2.PNG))
+![image_alt](https://github.com/nicolae1993/CRMinTelecom/blob/f517898aa85c6619abf65691a56fd78d6af23b5a/images/figura2.PNG)
 
 
 Daca s-au introdus corect credidenţialele se deschide o noua fereastră in care este prezent meniul principal care se poate observa si in figura 3. Aici vom observa mai multe functionalităţi ale aplicaţiei prezente în partea de sus pe MenuBar:
