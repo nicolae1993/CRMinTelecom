@@ -1,5 +1,5 @@
-# CRMinTelecom
-dissertation thesis made in Java &amp; MySQL (JDBC)
+# Telecom CRM: A Software Solution Based on Java and JDBC
+
 
 Descrirea aplicatiei
 Accesul la sistem se face prin intermediul unei interfeţe de Login prezente mai jos in figura 2. Se introduce numele si parola verificandu-se cu baza de date MySQL daca sunt corecte credidenţialele respective.
