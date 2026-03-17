@@ -100,6 +100,7 @@ Figura 13 – Grafic Top reprezentant
 La tabul de Top provenienta orase putem observa de unde sunt cei mai multi clienti.
 
 Figura 14 – Grafic Top provenienta orase clienti.
+
  ![image_alt](https://github.com/nicolae1993/CRMinTelecom/blob/121b6b969b24e78c13cfcafd625c3ea35b304da9/images/figura14.PNG)
 
 Iar la orase oficiu avem un grafic unde putem observa in ce oras sunt prezente cele mai multe magazine.
