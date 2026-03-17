@@ -96,7 +96,9 @@ Figura 12 – Menu Bar Grafice
 ![image_alt](https://github.com/nicolae1993/CRMinTelecom/blob/121b6b969b24e78c13cfcafd625c3ea35b304da9/images/figura12.PNG)
 
 La partea de Top angajati  avem o ierarhizare a acestora in functie de numarul de clienti pe care il are fiecare.
+
 Figura 13 – Grafic Top reprezentant
+
  ![image_alt](https://github.com/nicolae1993/CRMinTelecom/blob/121b6b969b24e78c13cfcafd625c3ea35b304da9/images/figura13.PNG)
 
 La tabul de Top provenienta orase putem observa de unde sunt cei mai multi clienti.
